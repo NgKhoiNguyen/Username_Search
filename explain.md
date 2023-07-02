@@ -9,6 +9,9 @@ Một số cách sử dụng phổ biến:
 - Tìm kiếm cụ thể tên trang web có sự xuất hiện của người đó
 
 ![image](https://github.com/NgKhoiNguyen/Username_Search/assets/81295437/11f232bd-a653-4c07-ac5d-87316aa9ec94)
+
+- Xuất ra file Excel
+
 ![image](https://github.com/NgKhoiNguyen/Username_Search/assets/81295437/16e92b21-7d64-44ee-8af0-17767e334564)
 
 - Xuất ra file CSV
