@@ -2,7 +2,7 @@
 
 Một số cách sử dụng phổ biến: 
 - Tìm kiếm một hay nhiều username trong social network
-![image](https://github.com/NgKhoiNguyen/Username_Search/assets/81295437/7166b045-c62b-46f0-9319-8385520091d3)
+- ![image](https://github.com/NgKhoiNguyen/Username_Search/assets/81295437/7166b045-c62b-46f0-9319-8385520091d3)
 
 - Query JSON file
 ![image](https://github.com/NgKhoiNguyen/Username_Search/assets/81295437/b85546cc-9ef1-4586-8f98-a73893671599)
