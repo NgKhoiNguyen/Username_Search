@@ -1,6 +1,11 @@
-Để theo dấu một người trên Internet thì tìm kiếm thông qua Username là một cách hữu hiệu để truy vết trên diện rộng. Có rất nhiều công cụ để phục vụ điều đó nhưng phổ biến và dễ phổ cập hơn cả là Sherlock.
+# Để theo dấu một người trên Internet thì tìm kiếm thông qua Username là một cách hữu hiệu để truy vết trên diện rộng. Có rất nhiều công cụ để phục vụ điều đó nhưng phổ biến và dễ phổ cập hơn cả là Sherlock.
 
-Một số cách sử dụng phổ biến: 
+## Cài đặt
+
+![image](https://github.com/NgKhoiNguyen/Username_Search/assets/81295437/0c356cb0-e74a-473a-8b97-b14d3ab00486)
+
+
+## Một số cách sử dụng phổ biến: 
 - Tìm kiếm một hay nhiều username trong social network và tự động lưu ra file .txt
 
 ![image](https://github.com/NgKhoiNguyen/Username_Search/assets/81295437/630e9181-52cc-470d-861b-6ccd32d4f086)
