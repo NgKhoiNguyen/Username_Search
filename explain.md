@@ -12,6 +12,7 @@ Một số cách sử dụng phổ biến:
 
 - Xuất ra file Excel
 
+![image](https://github.com/NgKhoiNguyen/Username_Search/assets/81295437/bc2852d5-6b34-411f-a2a9-21e2ac60fd4d)
 ![image](https://github.com/NgKhoiNguyen/Username_Search/assets/81295437/16e92b21-7d64-44ee-8af0-17767e334564)
 
 - Xuất ra file CSV
